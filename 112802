@@ -5,14 +5,36 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {name: '更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1', server: 使用前记得更新订阅, port: 0, type: vmess, uuid: 6a3bcc08-9c77-4c02-844b-4a694c4f2fea, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'github.com/freefq - 美国  6_2', server: 45.141.102.51, port: 35465, type: vmess, uuid: d7bbbcad-0653-42a1-b101-db44624707aa, alterId: 0, cipher: auto, tls: false, network: tcp, ws-headers: {Host: 45.141.102.51}}
-  - {name: 'github.com/freefq - 日本  9_3', server: kr2.futi.online, port: 2053, type: vmess, uuid: e60a3ed8-6620-4fce-b926-60af2c693f3f, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: kr2.futi.online}}
-  - {name: 'github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4', server: 104.251.233.106, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
-  - {name: 'github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5', server: 103.138.75.235, port: 443, type: vmess, uuid: 8ccc3052-4941-47e4-b85f-a67ea71e3fe6, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /clientarea, ws-headers: {Host: 103.138.75.235}}
-  - {name: 'github.com/freefq - 美国CloudFlare公司CDN节点 24_6', server: api.ssfree.ru, port: 443, type: vmess, uuid: a9fc1ec6-4fff-11ec-9c40-000017022008, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /getweather}
-  - {name: 'github.com/freefq - 香港阿里云 27_7', server: 8.210.250.210, port: 443, type: vmess, uuid: 068e9f3b-2ef0-41e0-aeb6-e22f33ded449, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /EpJdQym, ws-headers: {Host: www.sh3354.xyz}}
-  - {name: 'github.com/freefq - 台湾省台北市中华电信 28_8', server: tw-tb-d.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, network: tcp, ws-headers: {Host: tw-tb-d.zc20200426.club}}
+  - {name: 'github.com/freefq - 北美地区  1_1', server: 134.195.196.214, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 'github.com/freefq - 北美地区  2_2', server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 'github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3', server: t2.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 北美地区  4_4', server: 134.195.196.3, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 'github.com/freefq - 北美地区  5_5', server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 'github.com/freefq - 美国  6_6', server: 45.141.102.51, port: 35465, type: vmess, uuid: d7bbbcad-0653-42a1-b101-db44624707aa, alterId: 0, cipher: auto, tls: false, network: tcp, ws-headers: {Host: 45.141.102.51}}
+  - {name: 'github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7', server: t6.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8', server: t1.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 日本  9_9', server: kr2.futi.online, port: 2053, type: vmess, uuid: e60a3ed8-6620-4fce-b926-60af2c693f3f, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: kr2.futi.online}}
+  - {name: 'github.com/freefq - 美国LeaseWeb数据中心 10_10', server: 23.106.33.156, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: R3wS0jxB8ARCZgapOF8a4CpFc5lSOqCDZYSXD2a3zuY7eETD6IANy39elnxKy3}
+  - {name: 'github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11', server: 104.251.233.106, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
+  - {name: 'github.com/freefq - 北美地区  12_12', server: 134.195.196.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 'github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13', server: t7.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14', server: 103.138.75.235, port: 443, type: vmess, uuid: 8ccc3052-4941-47e4-b85f-a67ea71e3fe6, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /clientarea, ws-headers: {Host: 103.138.75.235}}
+  - {name: 'github.com/freefq - 美国  15_15', server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 'github.com/freefq - 北美地区  16_16', server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 'github.com/freefq - 俄罗斯  17_17', server: t8.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 北美地区  18_18', server: 134.195.196.3, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 'github.com/freefq - 美国  19_19', server: t9.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20', server: t3.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 俄罗斯  21_21', server: t4.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 英国  22_22', server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 'github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23', server: t5.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 美国CloudFlare公司CDN节点 24_24', server: api.ssfree.ru, port: 443, type: vmess, uuid: a9fc1ec6-4fff-11ec-9c40-000017022008, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /getweather}
+  - {name: 'github.com/freefq - 北美地区  25_25', server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 'github.com/freefq - 挪威  26_26', server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 'github.com/freefq - 香港阿里云 27_27', server: 8.210.250.210, port: 443, type: vmess, uuid: 068e9f3b-2ef0-41e0-aeb6-e22f33ded449, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /EpJdQym, ws-headers: {Host: www.sh3354.xyz}}
+  - {name: 'github.com/freefq - 台湾省台北市中华电信 28_28', server: tw-tb-d.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true, network: tcp, ws-headers: {Host: tw-tb-d.zc20200426.club}}
+  - {name: 'github.com/freefq - 美国  29_29', server: t10.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 日本M247网络 30_30', server: 185.172.113.156, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: '🏳_NON_High Speed_1', server: sv31.bytearea.com, port: 22003, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
   - {name: '🏳_NON_High Speed_2', server: sv41.bytearea.com, port: 22004, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
   - {name: '🏳_NON_High Speed_3', server: sv51.bytearea.com, port: 22005, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
@@ -50,243 +72,70 @@ proxies:
   - {name: '🏳_NON_High Speed_35', server: cn2.bytearea.com, port: 22011, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
   - {name: '🏳_NON_High Speed_36', server: cn2.bytearea.com, port: 22012, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
   - {name: '🏳_NON_High Speed_37', server: cn2.bytearea.com, port: 22013, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
-  - {name: '🏳_NON_High Speed_38', server: cn2.bytearea.com, port: 22014, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
-  - {name: '🏳_NON_High Speed_39', server: cn2.bytearea.com, port: 22015, type: vmess, uuid: d775da4d-5859-3985-8e9d-4cecc265134d, alterId: 2, cipher: auto, tls: false, network: tcp}
-  - {name: '🇨🇦加拿大绿头外网集团Public_48', server: usa-buffalo.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-buffalo.lvuft.com}}
-  - {name: '🇨🇳 中国绿头外网集团Public_49', server: 112.33.32.136, port: 10005, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇨🇳 中国绿头外网集团Public 2_50', server: 112.33.32.136, port: 10003, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇨🇳 中国绿头外网集团Public 3_51', server: 112.33.32.136, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇨🇳 中国绿头外网集团Public 4_52', server: shcn2-06b.iplc188.com, port: 10002, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇨🇳 中国绿头外网集团Public 5_53', server: shcn2-06b.iplc188.com, port: 10005, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇨🇳中国绿头外网集团Public_54', server: zj.haojiahuo.club, port: 60038, type: vmess, uuid: 4a6ada0c-e453-3217-8210-8556f9c92494, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: xuexi.cn}}
-  - {name: '🇨🇳中国绿头外网集团Public_55', server: 43.155.75.170, port: 80, type: vmess, uuid: 76329684-c5d2-4cf7-fcf5-06ad79a6aab3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: www.microsoft.com}}
-  - {name: '🇨🇳 中国绿头外网集团Public 8_56', server: shcn2-06b.iplc188.com, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
-  - {name: 'TOM-V2Ray-10_57', server: cmgz1.racernet.link, port: 1443, type: vmess, uuid: 0104c382-a0ec-339e-96a6-7f5cd8530128, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /cmgz1}
-  - {name: '🇨🇳中国绿头外网集团Public_58', server: zj.haojiahuo.club, port: 30041, type: vmess, uuid: 4a6ada0c-e453-3217-8210-8556f9c92494, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: xuexi.cn}}
-  - {name: '🇨🇳中国绿头外网集团Public_59', server: zj.haojiahuo.club, port: 30052, type: vmess, uuid: 4a6ada0c-e453-3217-8210-8556f9c92494, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: xuexi.cn}}
-  - {name: 'TOM-V2Ray-15_60', server: cm-jm.okvpn.xyz, port: 20004, type: vmess, uuid: 8b01a256-4f75-4c5e-8389-fca90104ff47, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: '🇨🇳中国绿头外网集团Public_61', server: cm-jm.okvpn.xyz, port: 20003, type: vmess, uuid: 05f277b9-ed70-4808-965f-1da79a208201, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: '🇨🇳中国绿头外网集团Public_62', server: cu-cs.okvpn.xyz, port: 30014, type: vmess, uuid: 05f277b9-ed70-4808-965f-1da79a208201, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cu-cs.okvpn.xyz}}
-  - {name: '🇬🇧英国绿头外网集团Public_63', server: uk-manchester.eiw2eemo.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: uk-manchester.eiw2eemo.com}}
-  - {name: '🇭🇰香港绿头外网集团Public_64', server: cmhk04.xc188.net, port: 443, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /clientarea, ws-headers: {Host: cmhk04.xc188.net}}
-  - {name: 'TOM-V2Ray-27_65', server: 183.240.55.55, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thkyd, ws-headers: {Host: t.me/vpnhat}}
-  - {name: '🇭🇰香港绿头外网集团Public_66', server: guangzhou-lw-03.pucdn.me, port: 11108, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-01.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_67', server: guangzhou-lw-03.pucdn.me, port: 11108, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-01.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_68', server: guangzhou-lw-03.pucdn.me, port: 11109, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-02.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_69', server: guangzhou-lw-03.pucdn.me, port: 11109, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-02.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_70', server: guangzhou-lw-03.pucdn.me, port: 11109, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-02.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_71', server: guangzhou-lw-03.pucdn.me, port: 11112, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-05.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_72', server: guangzhou-lw-03.pucdn.me, port: 11114, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-07.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_73', server: guangzhou-lw-03.pucdn.me, port: 11114, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-07.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_74', server: guangzhou-lw-03.pucdn.me, port: 11114, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-07.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_75', server: guangzhou-lw-03.pucdn.me, port: 11115, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-08.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_76', server: guangzhou-lw-03.pucdn.me, port: 11116, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-09.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_77', server: guangzhou-lw-03.pucdn.me, port: 11116, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-09.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_78', server: guangzhou-lw-03.pucdn.me, port: 11116, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-09.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_79', server: guangzhou-lw-03.pucdn.me, port: 11117, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-10.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_80', server: guangzhou-lw-03.pucdn.me, port: 11117, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-10.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_81', server: guangzhou-lw-03.pucdn.me, port: 11117, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-10.pucdn.me}}
-  - {name: '🇭🇰香港绿头外网集团Public_82', server: guangzhou-lw-03.pucdn.me, port: 11108, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-01.pucdn.me}}
-  - {name: 'TOM-V2Ray-04_83', server: hk5.racernet.link, port: 443, type: vmess, uuid: 0104c382-a0ec-339e-96a6-7f5cd8530128, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /racernet}
-  - {name: '🇮🇳印度绿头外网集团Public_84', server: global-transit-01-hn.pucdn.me, port: 60001, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-in-01.pucdn.me}}
-  - {name: '🇮🇳印度绿头外网集团Public_85', server: global-transit-01-hn.pucdn.me, port: 60001, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-in-01.pucdn.me}}
-  - {name: '🇮🇳印度绿头外网集团Public_86', server: global-transit-01-hn.pucdn.me, port: 60002, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-in-02.pucdn.me}}
-  - {name: '🇮🇳印度绿头外网集团Public_87', server: global-transit-01-hn.pucdn.me, port: 60002, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-in-02.pucdn.me}}
-  - {name: '🇮🇳印度绿头外网集团Public_88', server: global-transit-01-hn.pucdn.me, port: 60002, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-in-02.pucdn.me}}
-  - {name: '🇮🇳印度绿头外网集团Public_89', server: global-transit-02-sg.pucdn.me, port: 49993, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-do-in-03.pucdn.me}}
-  - {name: '🇮🇳印度绿头外网集团Public_90', server: global-transit-02-sg.pucdn.me, port: 49994, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-do-in-04.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_91', server: global-transit-hk-v2.pucdn.me, port: 10006, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-02.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_92', server: global-transit-hk-v2.pucdn.me, port: 10006, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-02.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_93', server: global-transit-hk-v2.pucdn.me, port: 10007, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-03.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_94', server: global-transit-hk-v2.pucdn.me, port: 10008, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-04.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_95', server: global-transit-hk-v2.pucdn.me, port: 10008, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-04.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_96', server: global-transit-hk-v2.pucdn.me, port: 10008, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-04.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_97', server: global-transit-hk-v2.pucdn.me, port: 10009, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-05.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_98', server: global-transit-hk-v2.pucdn.me, port: 10009, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-05.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_99', server: global-transit-hk-v2.pucdn.me, port: 10010, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-06.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_100', server: global-transit-hk-v2.pucdn.me, port: 10010, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-06.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_101', server: global-transit-hk-v2.pucdn.me, port: 10011, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-07.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_102', server: global-transit-hk-v2.pucdn.me, port: 10011, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-07.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_103', server: global-transit-hk-v2.pucdn.me, port: 10011, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-07.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_104', server: global-transit-hk-v2.pucdn.me, port: 10012, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-08.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_105', server: global-transit-hk-v2.pucdn.me, port: 10012, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-08.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_106', server: global-transit-hk-v2.pucdn.me, port: 10012, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-08.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_107', server: global-transit-hk-v2.pucdn.me, port: 10013, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-09.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_108', server: global-transit-hk-v2.pucdn.me, port: 10013, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-09.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_109', server: global-transit-hk-v2.pucdn.me, port: 10013, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-09.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_110', server: global-transit-hk-v2.pucdn.me, port: 10014, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-10.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_111', server: global-transit-hk-v2.pucdn.me, port: 10014, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-10.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_112', server: global-transit-hk-v2.pucdn.me, port: 32301, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-aws-jp-01.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_113', server: global-transit-hk-v2.pucdn.me, port: 32302, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-aws-jp-02.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_114', server: global-transit-hk-v2.pucdn.me, port: 32302, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-aws-jp-02.pucdn.me}}
-  - {name: '🇯🇵日本绿头外网集团Public_115', server: global-transit-hk-v2.pucdn.me, port: 32302, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-aws-jp-02.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_116', server: global-transit-02-sg.pucdn.me, port: 63001, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-01.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_117', server: global-transit-02-sg.pucdn.me, port: 63002, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-02.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_118', server: global-transit-02-sg.pucdn.me, port: 63002, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-02.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_119', server: global-transit-02-sg.pucdn.me, port: 63003, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-03.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_120', server: global-transit-02-sg.pucdn.me, port: 63003, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-03.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_121', server: global-transit-02-sg.pucdn.me, port: 63003, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-03.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_122', server: global-transit-02-sg.pucdn.me, port: 63005, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-05.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_123', server: global-transit-02-sg.pucdn.me, port: 63005, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-05.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_124', server: global-transit-02-sg.pucdn.me, port: 63005, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-05.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_125', server: global-transit-02-sg.pucdn.me, port: 63006, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-06.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_126', server: global-transit-02-sg.pucdn.me, port: 63006, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-06.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_127', server: global-transit-02-sg.pucdn.me, port: 63006, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-06.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_128', server: global-transit-02-sg.pucdn.me, port: 63007, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-07.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_129', server: global-transit-02-sg.pucdn.me, port: 63007, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-07.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_130', server: global-transit-02-sg.pucdn.me, port: 63007, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-07.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_131', server: global-transit-02-sg.pucdn.me, port: 63008, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-08.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_132', server: global-transit-02-sg.pucdn.me, port: 63008, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-08.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_133', server: global-transit-hk-v2.pucdn.me, port: 31101, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-01.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_134', server: global-transit-hk-v2.pucdn.me, port: 31101, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-01.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_135', server: global-transit-hk-v2.pucdn.me, port: 31101, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-01.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_136', server: global-transit-hk-v2.pucdn.me, port: 31102, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-02.pucdn.me}}
-  - {name: '🇰🇷韩国绿头外网集团Public_137', server: global-transit-hk-v2.pucdn.me, port: 31102, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_138', server: ukml.52jjyun.top, port: 88, type: vmess, uuid: bf7134c3-914d-4294-8cdf-6eda920d1a42, alterId: 10, cipher: auto, tls: false, network: ws, ws-path: /jjyun}
-  - {name: '🇺🇸美国绿头外网集团Public_139', server: ukml.52jjyun.top, port: 80, type: vmess, uuid: 613eee52-bfd9-47d1-a47d-37bdf1367aab, alterId: 10, cipher: auto, tls: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ukml.52jjyun.top}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_140', server: global-transit-02-sg.pucdn.me, port: 61001, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_141', server: global-transit-02-sg.pucdn.me, port: 61002, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-03.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_142', server: global-transit-02-sg.pucdn.me, port: 61002, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-03.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_143', server: global-transit-02-sg.pucdn.me, port: 61002, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-03.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_144', server: global-transit-02-sg.pucdn.me, port: 61003, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-04.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_145', server: global-transit-02-sg.pucdn.me, port: 61003, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-04.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_146', server: global-transit-02-sg.pucdn.me, port: 61003, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-04.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_147', server: global-transit-02-sg.pucdn.me, port: 61005, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-06.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_148', server: global-transit-02-sg.pucdn.me, port: 61005, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-06.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_149', server: global-transit-02-sg.pucdn.me, port: 61005, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-06.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_150', server: global-transit-02-sg.pucdn.me, port: 61006, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-07.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_151', server: global-transit-02-sg.pucdn.me, port: 61007, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-08.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_152', server: global-transit-02-sg.pucdn.me, port: 61007, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-08.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_153', server: global-transit-02-sg.pucdn.me, port: 61007, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-08.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_154', server: global-transit-hk-v2.pucdn.me, port: 31122, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-a-sg-01.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_155', server: global-transit-hk-v2.pucdn.me, port: 31123, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-a-sg-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_156', server: global-transit-hk-v2.pucdn.me, port: 31123, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-a-sg-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_157', server: global-transit-hk-v2.pucdn.me, port: 31124, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-01.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_158', server: global-transit-hk-v2.pucdn.me, port: 31124, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-01.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_159', server: global-transit-hk-v2.pucdn.me, port: 31124, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-01.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_160', server: global-transit-hk-v2.pucdn.me, port: 31125, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_161', server: global-transit-hk-v2.pucdn.me, port: 31125, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_162', server: global-transit-hk-v2.pucdn.me, port: 31125, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-02.pucdn.me}}
-  - {name: '🇸🇬新加坡绿头外网集团Public_163', server: v3.emovpn.xyz, port: 80, type: vmess, uuid: 6a3f3374-485c-4a5d-a58c-fdc0bc85b377, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
-  - {name: '🇸🇬 新加坡绿头外网集团Public 27_164', server: v4.emovpn.xyz, port: 80, type: vmess, uuid: 6a3f3374-485c-4a5d-a58c-fdc0bc85b377, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇸🇬新加坡绿头外网集团Public_165', server: v5.emovpn.xyz, port: 80, type: vmess, uuid: 6a3f3374-485c-4a5d-a58c-fdc0bc85b377, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
-  - {name: 'TOM-V2Ray-41_166', server: zecjk.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: zecjk.com}}
-  - {name: 'TOM-V2Ray-32_167', server: eeh7iewe.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: eeh7iewe.com}}
-  - {name: '🇹🇼台湾绿头外网集团Public_168', server: c27821f.rf.cloudflare.systems, port: 80, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /s/c27821f.fm.icloud.com:16708, ws-headers: {Host: c27821f.rf.cloudflare.systems}}
-  - {name: '🇹🇼台湾绿头外网集团Public_169', server: guangzhou-lw-03.pucdn.me, port: 21101, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-02.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_170', server: guangzhou-lw-03.pucdn.me, port: 21101, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-02.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_171', server: guangzhou-lw-03.pucdn.me, port: 21102, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-02.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_172', server: guangzhou-lw-03.pucdn.me, port: 21102, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-02.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_173', server: guangzhou-lw-03.pucdn.me, port: 21102, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-02.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_174', server: guangzhou-lw-03.pucdn.me, port: 21103, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-03.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_175', server: guangzhou-lw-03.pucdn.me, port: 21103, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-03.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_176', server: guangzhou-lw-03.pucdn.me, port: 21103, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-03.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_177', server: guangzhou-lw-03.pucdn.me, port: 21104, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-04.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_178', server: guangzhou-lw-03.pucdn.me, port: 21104, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-04.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_179', server: guangzhou-lw-03.pucdn.me, port: 21105, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-05.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_180', server: guangzhou-lw-03.pucdn.me, port: 21105, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-05.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_181', server: guangzhou-lw-03.pucdn.me, port: 21105, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-05.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_182', server: guangzhou-lw-03.pucdn.me, port: 21106, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-06.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_183', server: guangzhou-lw-03.pucdn.me, port: 21106, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-06.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_184', server: guangzhou-lw-03.pucdn.me, port: 21106, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-06.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_185', server: guangzhou-lw-03.pucdn.me, port: 21107, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-07.pucdn.me}}
-  - {name: '🇹🇼台湾绿头外网集团Public_186', server: guangzhou-lw-03.pucdn.me, port: 21107, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-07.pucdn.me}}
-  - {name: '🇺🇸美国绿头外网集团Public_187', server: global-transit-hk-v2.pucdn.me, port: 37001, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-ntt-ua-01.pucdn.me}}
-  - {name: '🇺🇸美国绿头外网集团Public_188', server: global-transit-hk-v2.pucdn.me, port: 37002, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-ntt-ua-02.pucdn.me}}
-  - {name: '🇺🇸美国绿头外网集团Public_189', server: global-transit-hk-v2.pucdn.me, port: 37002, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-ntt-ua-02.pucdn.me}}
-  - {name: '🇺🇸美国绿头外网集团Public_190', server: v5.emovpn.xyz, port: 80, type: vmess, uuid: 42d4a7de-1e02-4846-bfff-29ca2fb4ab47, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
-  - {name: '🇺🇲 美国绿头外网集团Public 91_191', server: v4.emovpn.xyz, port: 80, type: vmess, uuid: 42d4a7de-1e02-4846-bfff-29ca2fb4ab47, alterId: 1, cipher: auto, tls: false}
-  - {name: '🇺🇸美国绿头外网集团Public_192', server: Ze9baeS5.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: Ze9baeS5.com}}
-  - {name: '🇺🇸美国绿头外网集团Public_193', server: jp1.racernet.link, port: 443, type: vmess, uuid: 0104c382-a0ec-339e-96a6-7f5cd8530128, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /rhwsqaul}
-  - {name: '🇺🇸美国绿头外网集团Public_194', server: chuch3go.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: chuch3go.com}}
-  - {name: '🇺🇸美国绿头外网集团Public_195', server: usa-washington.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-washington.lvuft.com}}
-  - {name: '🇨🇳中国绿头外网集团Public_196', server: 112.33.32.136, port: 10005, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇨🇳中国绿头外网集团Public_197', server: 112.33.32.136, port: 10003, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇨🇳中国绿头外网集团Public_198', server: 112.33.32.136, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇨🇳中国绿头外网集团Public_199', server: shcn2-06b.iplc188.com, port: 10002, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇨🇳中国绿头外网集团Public_200', server: shcn2-06b.iplc188.com, port: 10005, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇨🇳中国绿头外网集团Public_201', server: shcn2-06b.iplc188.com, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇸🇬新加坡绿头外网集团Public_202', server: v4.emovpn.xyz, port: 80, type: vmess, uuid: 6a3f3374-485c-4a5d-a58c-fdc0bc85b377, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: '🇺🇸美国绿头外网集团Public_203', server: v4.emovpn.xyz, port: 80, type: vmess, uuid: 42d4a7de-1e02-4846-bfff-29ca2fb4ab47, alterId: 1, cipher: auto, tls: false, network: tcp}
-  - {name: 'n__07', server: 42.157.8.162, port: 48106, type: vmess, uuid: 3959477e-55c4-453f-bc80-3b13e64891ac, alterId: 64, cipher: auto, tls: false}
-  - {name: 'TOM-V2Ray-02_205', server: v1.369855.xyz, port: 11443, type: vmess, uuid: d5c70a71-1b3c-41f2-a8e0-17323bc23821, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /api/sg, ws-headers: {Host: sgav2.ddns.tjiasu.xyz}}
-  - {name: 'TOM-V2Ray-03_206', server: cm-jm.okvpn.xyz, port: 20001, type: vmess, uuid: 8b01a256-4f75-4c5e-8389-fca90104ff47, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: 'TOM-V2Ray-05_207', server: v1.369855.xyz, port: 11443, type: vmess, uuid: d5c70a71-1b3c-41f2-a8e0-17323bc23821, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /api/shop, ws-headers: {Host: hkv2-1.ddns.tjiasu.xyz}}
-  - {name: 'TOM-V2Ray-06_208', server: cm-jm.okvpn.xyz, port: 20003, type: vmess, uuid: 189dede4-c62b-4709-8340-5600557ae8b3, alterId: 1, cipher: auto, tls: false, network: ws}
-  - {name: 'TOM-V2Ray-09_209', server: fosyd.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thkyd, ws-headers: {Host: fosyd.tuboshu.space}}
-  - {name: 'TOM-V2Ray-08_210', server: cm-jm.okvpn.xyz, port: 20015, type: vmess, uuid: 189dede4-c62b-4709-8340-5600557ae8b3, alterId: 1, cipher: auto, tls: false, network: ws}
-  - {name: 'TOM-V2Ray-28_211', server: hzlt.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thkt}
-  - {name: 'TOM-V2Ray-12_212', server: sg2.futi.online, port: 443, type: vmess, uuid: e60a3ed8-6620-4fce-b926-60af2c693f3f, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: sg2.futi.online}}
-  - {name: 'TOM-V2Ray-13_213', server: v1.369855.xyz, port: 11443, type: vmess, uuid: d5c70a71-1b3c-41f2-a8e0-17323bc23821, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /api/rn, ws-headers: {Host: usbv2.ddns.tjiasu.xyz}}
-  - {name: 'TOM-V2Ray-14_214', server: kr3.futi.online, port: 2053, type: vmess, uuid: e60a3ed8-6620-4fce-b926-60af2c693f3f, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: kr3.futi.online}}
-  - {name: 'TOM-V2Ray-16_215', server: 2.56.241.192, port: 3578, type: vmess, uuid: 78b2bdae-4805-11ec-a58e-56503998dcfb, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'TOM-V2Ray-17_216', server: v1.369855.xyz, port: 11443, type: vmess, uuid: d5c70a71-1b3c-41f2-a8e0-17323bc23821, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /api/common, ws-headers: {Host: usav2.ddns.tjiasu.xyz}}
-  - {name: 'TOM-V2Ray-18_217', server: cm-jm.okvpn.xyz, port: 20005, type: vmess, uuid: 189dede4-c62b-4709-8340-5600557ae8b3, alterId: 1, cipher: auto, tls: false, network: ws}
-  - {name: 'TOM-V2Ray-19_218', server: cm-jm.okvpn.xyz, port: 20005, type: vmess, uuid: 8b01a256-4f75-4c5e-8389-fca90104ff47, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: 'TOM-V2Ray-20_219', server: 183.240.55.55, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thkt, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 'TOM-V2Ray-21_220', server: 104.23.119.57, port: 443, type: vmess, uuid: 7be43971-52f1-48af-9036-454a94b4723a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: "/ws/?ed=2048", ws-headers: {Host: download.china666.ml}}
-  - {name: 'TOM-V2Ray-22_221', server: hzlt.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /tau, ws-headers: {Host: hzlt.tuboshu.space}}
-  - {name: 'TOM-V2Ray-23_222', server: 142.4.127.67, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.47727450.xyz}}
-  - {name: 'TOM-V2Ray-24_223', server: lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: lvuft.com}}
-  - {name: 'TOM-V2Ray-25_224', server: qv21.shenseven.xyz, port: 80, type: vmess, uuid: 437b10ea-9263-4c9d-8cf1-a8fc4755bcd9, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shoutingtoutiao1.10010.com}}
-  - {name: 'TOM-V2Ray-26_225', server: ex.oracleusa.ml, port: 443, type: vmess, uuid: 29d8e9c2-c88f-4a86-a615-2a76dcc2458b, alterId: 1, cipher: auto, tls: true, network: ws}
-  - {name: 'TOM-V2Ray-29_226', server: 143.198.237.214, port: 27489, type: vmess, uuid: d73f027b-9a37-4e79-dd29-3a0d1e1da128, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /}
-  - {name: 'TOM-V2Ray-30_227', server: 104.22.44.50, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 'TOM-V2Ray-31_228', server: amu1ahfi.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: amu1ahfi.com}}
-  - {name: 'TOM-V2Ray-33_229', server: italy-milan.mah3Hoet.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: italy-milan.mah3Hoet.com}}
-  - {name: 'TOM-V2Ray-40_230', server: germany-dusseldorf.mah3Hoet.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: germany-dusseldorf.mah3Hoet.com}}
-  - {name: 'TOM-V2Ray-35_231', server: 192.74.254.167, port: 500, type: vmess, uuid: 764e808a-115e-11ec-a88f-00163c9f4934, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'TOM-V2Ray-36_232', server: ru.52jjyun.top, port: 80, type: vmess, uuid: 613eee52-bfd9-47d1-a47d-37bdf1367aab, alterId: 10, cipher: auto, tls: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ru.52jjyun.top}}
-  - {name: 'TOM-V2Ray-37_233', server: cu-cs.okvpn.xyz, port: 30016, type: vmess, uuid: 189dede4-c62b-4709-8340-5600557ae8b3, alterId: 1, cipher: auto, tls: false, network: ws}
-  - {name: 'TOM-V2Ray-38_234', server: viibah6u.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: viibah6u.com}}
-  - {name: 'TOM-V2Ray-39_235', server: 104.16.167.146, port: 443, type: vmess, uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: kycc, ws-headers: {Host: lsb.stupidfellow.cf}}
-  - {name: 'TOM-V2Ray-42_236', server: global-transit-01-hn.pucdn.me, port: 60001, type: vmess, uuid: 0e4a0f2f-9cc9-3b11-9e6a-4392c4fcfc6c, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: global-transit-01-hn.pucdn.me}}
-  - {name: 'TOM-V2Ray-43_237', server: ex.oracleusa.ml, port: 443, type: vmess, uuid: 29d8e9c2-c88f-4a86-a615-2a76dcc2458b, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: ex.oracleusa.ml}}
-  - {name: 'TOM-V2Ray-44_238', server: us1nhg-node.aiqiche123.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: ray, ws-headers: {Host: us1nhg-node.aiqiche123.com}}
-  - {name: 'TOM-V2Ray-45_239', server: 104.21.201.33, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 'TOM-V2Ray-46_240', server: 104.16.181.197, port: 443, type: vmess, uuid: 7be43971-52f1-48af-9036-454a94b4723a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: "/ws/?ed=2048", ws-headers: {Host: download.china666.ml}}
-  - {name: 'TOM-V2Ray-47_241', server: 104.16.149.144, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 'DO|新加坡|一般|公益使用|免流_242', server: 8vsg.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
-  - {name: 'GCP|台湾|高速|2X_243', server: tw.v2jx.site, port: 443, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /}
-  - {name: 'AZ|日本|高速免流|_244', server: 20.78.170.28, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
-  - {name: 'HGC|香港2|流媒体解锁迪士尼奈菲_245', server: hgc.xiaomai.my03.com, port: 11080, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 23, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
-  - {name: 'US|洛杉矶|电信CN2|直连高速_246', server: cn2.v2jx.site, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /}
-  - {name: '甲骨文|韩国春川|高速G口|免流_247', server: kr.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /}
-  - {name: 'AZ|香港|高速|免流|_248', server: 828azhk.v2jx.site, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: shoutingtoutiao3.10010.com}}
-  - {name: '甲骨文|韩国春川50M|高速|免流_249', server: cc.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
-  - {name: 'DO|新加坡|中转|公益使用|免流_250', server: gy.55kai.xyz, port: 58520, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
-  - {name: 'DO|美国|联通手厅免流|80端口直连_251', server: dous.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
-  - {name: 'DO|印度|全国电信停机免流_252', server: gy.55kai.xyz, port: 43648, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: a.189.cn}}
-  - {name: 'HGC|香港|流媒体解锁|全国广东电信停机免流_253', server: hgc.jddg.me, port: 10780, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
-  - {name: 'Hinet|台湾|流媒体解锁|全国广东电信免流_254', server: hinet.jddg.me, port: 35697, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 33, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
-  - {name: '俄罗斯|原生IP|广东电信免流|steam|中转_255', server: f2s.jddg.me, port: 30008, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: gd.189.cn}}
-  - {name: '甲骨文|春川2|50M|免流|_256', server: jiaguwen.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws}
-  - {name: 'CN|浙江杭州|高速免流|2X_257', server: 111.2.178.184, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
-  - {name: 'BUYVM|卢森堡|高速|免流|免费不限量|中转_258', server: f2s.jddg.me, port: 30019, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /}
-  - {name: 'AZ|香港2|免流|自行修改_259', server: 20.187.78.68, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: gd.189.cn}}
-  - {name: 'isx.yt-01_260', server: v2us01.isxa.top, port: 443, type: vmess, uuid: , alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray}
-  - {name: 'isx.yt-02_261', server: v2us02.isxa.top, port: 443, type: vmess, uuid: , alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray}
-  - {name: 'isx.yt-03_262', server: v2us03.isxa.top, port: 443, type: vmess, uuid: , alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray}
-  - {name: 'free-ss.sitewww.kernels.bid_263', server: www.kernels.bid, port: 443, type: vmess, uuid: 866ffce8-3b0a-8954-4326-ad333742e712, alterId: 0, cipher: auto, tls: true, network: ws, ws-headers: {Host: /ws}}
-  - {name: 'free-ss.sitewww.kernels.bid_264', server: www.kernels.bid, port: 80, type: vmess, uuid: e61acace-980f-0efa-5a83-ba7ce9c362fd, alterId: 0, cipher: auto, tls: false, network: ws, ws-headers: {Host: /ws}}
-  - {name: 'Hax_265', server: 104.20.103.23, port: 443, type: vmess, uuid: b6b50544-6af9-4b30-8cf8-b700e2f57c96, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: "/hukavws?ed=2048", ws-headers: {Host: 11.zhangqi12345.xyz}}
-  - {name: 'heroku_266', server: 44.zhangqi12345.xyz, port: 443, type: vmess, uuid: 0ef2d012-4fd9-11ec-81d3-0242ac130003, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /0ef2d012-4fd9-11ec-81d3-0242ac130003-vmess, ws-headers: {Host: empty-pond-2999.724064803.workers.dev}}
-  - {name: 'heroku-优选_267', server: 33.zhangqi12345.xyz, port: 443, type: vmess, uuid: 0ef2d012-4fd9-11ec-81d3-0242ac130003, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /0ef2d012-4fd9-11ec-81d3-0242ac130003-vmess, ws-headers: {Host: empty-pond-2999.724064803.workers.dev}}
-  - {name: 'heroku2_268', server: 22.zhangqi12345.xyz, port: 443, type: vmess, uuid: 5f5821c4-4e3f-11ec-81d3-0242ac130003, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /5f5821c4-4e3f-11ec-81d3-0242ac130003-vmess, ws-headers: {Host: production.cold-wave-48b5.724064803.workers.dev}}
+  - {name: '更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68', server: 使用前记得更新订阅, port: 0, type: vmess, uuid: 6a3bcc08-9c77-4c02-844b-4a694c4f2fea, alterId: 0, cipher: auto, tls: false, network: tcp}
+  - {name: 'DO|新加坡|一般|公益使用|免流_69', server: 8vsg.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
+  - {name: 'GCP|台湾|高速|2X_70', server: tw.v2jx.site, port: 443, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /}
+  - {name: 'AZ|日本|高速免流|_71', server: 20.78.170.28, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
+  - {name: 'HGC|香港2|流媒体解锁迪士尼奈菲_72', server: hgc.xiaomai.my03.com, port: 11080, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 23, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
+  - {name: 'US|洛杉矶|电信CN2|直连高速_73', server: cn2.v2jx.site, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /}
+  - {name: '甲骨文|韩国春川|高速G口|免流_74', server: kr.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /}
+  - {name: 'AZ|香港|高速|免流|_75', server: 828azhk.v2jx.site, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: shoutingtoutiao3.10010.com}}
+  - {name: '甲骨文|韩国春川50M|高速|免流_76', server: cc.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
+  - {name: 'DO|新加坡|中转|公益使用|免流_77', server: gy.55kai.xyz, port: 58520, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
+  - {name: 'DO|美国|联通手厅免流|80端口直连_78', server: dous.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
+  - {name: 'DO|印度|全国电信停机免流_79', server: gy.55kai.xyz, port: 43648, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: a.189.cn}}
+  - {name: 'HGC|香港|流媒体解锁|全国广东电信停机免流_80', server: hgc.jddg.me, port: 10780, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
+  - {name: 'Hinet|台湾|流媒体解锁|全国广东电信免流_81', server: hinet.jddg.me, port: 35697, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 33, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
+  - {name: '俄罗斯|原生IP|广东电信免流|steam|中转_82', server: f2s.jddg.me, port: 30008, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: gd.189.cn}}
+  - {name: '甲骨文|春川2|50M|免流|_83', server: jiaguwen.jddg.me, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 1, cipher: auto, tls: false, network: ws}
+  - {name: 'CN|浙江杭州|高速免流|2X_84', server: 111.2.178.184, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html}
+  - {name: 'BUYVM|卢森堡|高速|免流|免费不限量|中转_85', server: f2s.jddg.me, port: 30019, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /}
+  - {name: 'AZ|香港2|免流|自行修改_86', server: 20.187.78.68, port: 80, type: vmess, uuid: 28faba2d-0f42-4169-b086-8367b22b1472, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: gd.189.cn}}
+  - {name: 'isx.yt-01_87', server: v2us01.isxa.top, port: 443, type: vmess, uuid: , alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray}
+  - {name: 'isx.yt-02_88', server: v2us02.isxa.top, port: 443, type: vmess, uuid: , alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray}
+  - {name: 'isx.yt-03_89', server: v2us03.isxa.top, port: 443, type: vmess, uuid: , alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray}
+  - {name: 'free-ss.sitewww.kernels.bid_90', server: www.kernels.bid, port: 443, type: vmess, uuid: 866ffce8-3b0a-8954-4326-ad333742e712, alterId: 0, cipher: auto, tls: true, network: ws, ws-headers: {Host: /ws}}
+  - {name: 'free-ss.sitewww.kernels.bid_91', server: www.kernels.bid, port: 80, type: vmess, uuid: e61acace-980f-0efa-5a83-ba7ce9c362fd, alterId: 0, cipher: auto, tls: false, network: ws, ws-headers: {Host: /ws}}
+  - {name: 'Hax_92', server: 104.20.103.23, port: 443, type: vmess, uuid: b6b50544-6af9-4b30-8cf8-b700e2f57c96, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: "/hukavws?ed=2048", ws-headers: {Host: 11.zhangqi12345.xyz}}
+  - {name: 'heroku_93', server: 44.zhangqi12345.xyz, port: 443, type: vmess, uuid: 0ef2d012-4fd9-11ec-81d3-0242ac130003, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /0ef2d012-4fd9-11ec-81d3-0242ac130003-vmess, ws-headers: {Host: empty-pond-2999.724064803.workers.dev}}
+  - {name: 'heroku-优选_94', server: 33.zhangqi12345.xyz, port: 443, type: vmess, uuid: 0ef2d012-4fd9-11ec-81d3-0242ac130003, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /0ef2d012-4fd9-11ec-81d3-0242ac130003-vmess, ws-headers: {Host: empty-pond-2999.724064803.workers.dev}}
+  - {name: 'heroku2_95', server: 22.zhangqi12345.xyz, port: 443, type: vmess, uuid: 5f5821c4-4e3f-11ec-81d3-0242ac130003, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /5f5821c4-4e3f-11ec-81d3-0242ac130003-vmess, ws-headers: {Host: production.cold-wave-48b5.724064803.workers.dev}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -324,242 +173,69 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -597,243 +273,70 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -871,242 +374,69 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -1144,242 +474,69 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -1417,242 +574,69 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -1690,243 +674,70 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -1964,229 +775,34 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2202,14 +818,36 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_1
-      - github.com/freefq - 美国  6_2
-      - github.com/freefq - 日本  9_3
-      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_4
-      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_5
-      - github.com/freefq - 美国CloudFlare公司CDN节点 24_6
-      - github.com/freefq - 香港阿里云 27_7
-      - github.com/freefq - 台湾省台北市中华电信 28_8
+      - github.com/freefq - 北美地区  1_1
+      - github.com/freefq - 北美地区  2_2
+      - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 3_3
+      - github.com/freefq - 北美地区  4_4
+      - github.com/freefq - 北美地区  5_5
+      - github.com/freefq - 美国  6_6
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 7_7
+      - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 8_8
+      - github.com/freefq - 日本  9_9
+      - github.com/freefq - 美国LeaseWeb数据中心 10_10
+      - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 11_11
+      - github.com/freefq - 北美地区  12_12
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 13_13
+      - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 14_14
+      - github.com/freefq - 美国  15_15
+      - github.com/freefq - 北美地区  16_16
+      - github.com/freefq - 俄罗斯  17_17
+      - github.com/freefq - 北美地区  18_18
+      - github.com/freefq - 美国  19_19
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 20_20
+      - github.com/freefq - 俄罗斯  21_21
+      - github.com/freefq - 英国  22_22
+      - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 23_23
+      - github.com/freefq - 美国CloudFlare公司CDN节点 24_24
+      - github.com/freefq - 北美地区  25_25
+      - github.com/freefq - 挪威  26_26
+      - github.com/freefq - 香港阿里云 27_27
+      - github.com/freefq - 台湾省台北市中华电信 28_28
+      - github.com/freefq - 美国  29_29
+      - github.com/freefq - 日本M247网络 30_30
       - 🏳_NON_High Speed_1
       - 🏳_NON_High Speed_2
       - 🏳_NON_High Speed_3
@@ -2247,229 +885,34 @@ proxy-groups:
       - 🏳_NON_High Speed_35
       - 🏳_NON_High Speed_36
       - 🏳_NON_High Speed_37
-      - 🏳_NON_High Speed_38
-      - 🏳_NON_High Speed_39
-      - 🇨🇦加拿大绿头外网集团Public_48
-      - 🇨🇳 中国绿头外网集团Public_49
-      - 🇨🇳 中国绿头外网集团Public 2_50
-      - 🇨🇳 中国绿头外网集团Public 3_51
-      - 🇨🇳 中国绿头外网集团Public 4_52
-      - 🇨🇳 中国绿头外网集团Public 5_53
-      - 🇨🇳中国绿头外网集团Public_54
-      - 🇨🇳中国绿头外网集团Public_55
-      - 🇨🇳 中国绿头外网集团Public 8_56
-      - TOM-V2Ray-10_57
-      - 🇨🇳中国绿头外网集团Public_58
-      - 🇨🇳中国绿头外网集团Public_59
-      - TOM-V2Ray-15_60
-      - 🇨🇳中国绿头外网集团Public_61
-      - 🇨🇳中国绿头外网集团Public_62
-      - 🇬🇧英国绿头外网集团Public_63
-      - 🇭🇰香港绿头外网集团Public_64
-      - TOM-V2Ray-27_65
-      - 🇭🇰香港绿头外网集团Public_66
-      - 🇭🇰香港绿头外网集团Public_67
-      - 🇭🇰香港绿头外网集团Public_68
-      - 🇭🇰香港绿头外网集团Public_69
-      - 🇭🇰香港绿头外网集团Public_70
-      - 🇭🇰香港绿头外网集团Public_71
-      - 🇭🇰香港绿头外网集团Public_72
-      - 🇭🇰香港绿头外网集团Public_73
-      - 🇭🇰香港绿头外网集团Public_74
-      - 🇭🇰香港绿头外网集团Public_75
-      - 🇭🇰香港绿头外网集团Public_76
-      - 🇭🇰香港绿头外网集团Public_77
-      - 🇭🇰香港绿头外网集团Public_78
-      - 🇭🇰香港绿头外网集团Public_79
-      - 🇭🇰香港绿头外网集团Public_80
-      - 🇭🇰香港绿头外网集团Public_81
-      - 🇭🇰香港绿头外网集团Public_82
-      - TOM-V2Ray-04_83
-      - 🇮🇳印度绿头外网集团Public_84
-      - 🇮🇳印度绿头外网集团Public_85
-      - 🇮🇳印度绿头外网集团Public_86
-      - 🇮🇳印度绿头外网集团Public_87
-      - 🇮🇳印度绿头外网集团Public_88
-      - 🇮🇳印度绿头外网集团Public_89
-      - 🇮🇳印度绿头外网集团Public_90
-      - 🇯🇵日本绿头外网集团Public_91
-      - 🇯🇵日本绿头外网集团Public_92
-      - 🇯🇵日本绿头外网集团Public_93
-      - 🇯🇵日本绿头外网集团Public_94
-      - 🇯🇵日本绿头外网集团Public_95
-      - 🇯🇵日本绿头外网集团Public_96
-      - 🇯🇵日本绿头外网集团Public_97
-      - 🇯🇵日本绿头外网集团Public_98
-      - 🇯🇵日本绿头外网集团Public_99
-      - 🇯🇵日本绿头外网集团Public_100
-      - 🇯🇵日本绿头外网集团Public_101
-      - 🇯🇵日本绿头外网集团Public_102
-      - 🇯🇵日本绿头外网集团Public_103
-      - 🇯🇵日本绿头外网集团Public_104
-      - 🇯🇵日本绿头外网集团Public_105
-      - 🇯🇵日本绿头外网集团Public_106
-      - 🇯🇵日本绿头外网集团Public_107
-      - 🇯🇵日本绿头外网集团Public_108
-      - 🇯🇵日本绿头外网集团Public_109
-      - 🇯🇵日本绿头外网集团Public_110
-      - 🇯🇵日本绿头外网集团Public_111
-      - 🇯🇵日本绿头外网集团Public_112
-      - 🇯🇵日本绿头外网集团Public_113
-      - 🇯🇵日本绿头外网集团Public_114
-      - 🇯🇵日本绿头外网集团Public_115
-      - 🇰🇷韩国绿头外网集团Public_116
-      - 🇰🇷韩国绿头外网集团Public_117
-      - 🇰🇷韩国绿头外网集团Public_118
-      - 🇰🇷韩国绿头外网集团Public_119
-      - 🇰🇷韩国绿头外网集团Public_120
-      - 🇰🇷韩国绿头外网集团Public_121
-      - 🇰🇷韩国绿头外网集团Public_122
-      - 🇰🇷韩国绿头外网集团Public_123
-      - 🇰🇷韩国绿头外网集团Public_124
-      - 🇰🇷韩国绿头外网集团Public_125
-      - 🇰🇷韩国绿头外网集团Public_126
-      - 🇰🇷韩国绿头外网集团Public_127
-      - 🇰🇷韩国绿头外网集团Public_128
-      - 🇰🇷韩国绿头外网集团Public_129
-      - 🇰🇷韩国绿头外网集团Public_130
-      - 🇰🇷韩国绿头外网集团Public_131
-      - 🇰🇷韩国绿头外网集团Public_132
-      - 🇰🇷韩国绿头外网集团Public_133
-      - 🇰🇷韩国绿头外网集团Public_134
-      - 🇰🇷韩国绿头外网集团Public_135
-      - 🇰🇷韩国绿头外网集团Public_136
-      - 🇰🇷韩国绿头外网集团Public_137
-      - 🇸🇬新加坡绿头外网集团Public_138
-      - 🇺🇸美国绿头外网集团Public_139
-      - 🇸🇬新加坡绿头外网集团Public_140
-      - 🇸🇬新加坡绿头外网集团Public_141
-      - 🇸🇬新加坡绿头外网集团Public_142
-      - 🇸🇬新加坡绿头外网集团Public_143
-      - 🇸🇬新加坡绿头外网集团Public_144
-      - 🇸🇬新加坡绿头外网集团Public_145
-      - 🇸🇬新加坡绿头外网集团Public_146
-      - 🇸🇬新加坡绿头外网集团Public_147
-      - 🇸🇬新加坡绿头外网集团Public_148
-      - 🇸🇬新加坡绿头外网集团Public_149
-      - 🇸🇬新加坡绿头外网集团Public_150
-      - 🇸🇬新加坡绿头外网集团Public_151
-      - 🇸🇬新加坡绿头外网集团Public_152
-      - 🇸🇬新加坡绿头外网集团Public_153
-      - 🇸🇬新加坡绿头外网集团Public_154
-      - 🇸🇬新加坡绿头外网集团Public_155
-      - 🇸🇬新加坡绿头外网集团Public_156
-      - 🇸🇬新加坡绿头外网集团Public_157
-      - 🇸🇬新加坡绿头外网集团Public_158
-      - 🇸🇬新加坡绿头外网集团Public_159
-      - 🇸🇬新加坡绿头外网集团Public_160
-      - 🇸🇬新加坡绿头外网集团Public_161
-      - 🇸🇬新加坡绿头外网集团Public_162
-      - 🇸🇬新加坡绿头外网集团Public_163
-      - 🇸🇬 新加坡绿头外网集团Public 27_164
-      - 🇸🇬新加坡绿头外网集团Public_165
-      - TOM-V2Ray-41_166
-      - TOM-V2Ray-32_167
-      - 🇹🇼台湾绿头外网集团Public_168
-      - 🇹🇼台湾绿头外网集团Public_169
-      - 🇹🇼台湾绿头外网集团Public_170
-      - 🇹🇼台湾绿头外网集团Public_171
-      - 🇹🇼台湾绿头外网集团Public_172
-      - 🇹🇼台湾绿头外网集团Public_173
-      - 🇹🇼台湾绿头外网集团Public_174
-      - 🇹🇼台湾绿头外网集团Public_175
-      - 🇹🇼台湾绿头外网集团Public_176
-      - 🇹🇼台湾绿头外网集团Public_177
-      - 🇹🇼台湾绿头外网集团Public_178
-      - 🇹🇼台湾绿头外网集团Public_179
-      - 🇹🇼台湾绿头外网集团Public_180
-      - 🇹🇼台湾绿头外网集团Public_181
-      - 🇹🇼台湾绿头外网集团Public_182
-      - 🇹🇼台湾绿头外网集团Public_183
-      - 🇹🇼台湾绿头外网集团Public_184
-      - 🇹🇼台湾绿头外网集团Public_185
-      - 🇹🇼台湾绿头外网集团Public_186
-      - 🇺🇸美国绿头外网集团Public_187
-      - 🇺🇸美国绿头外网集团Public_188
-      - 🇺🇸美国绿头外网集团Public_189
-      - 🇺🇸美国绿头外网集团Public_190
-      - 🇺🇲 美国绿头外网集团Public 91_191
-      - 🇺🇸美国绿头外网集团Public_192
-      - 🇺🇸美国绿头外网集团Public_193
-      - 🇺🇸美国绿头外网集团Public_194
-      - 🇺🇸美国绿头外网集团Public_195
-      - 🇨🇳中国绿头外网集团Public_196
-      - 🇨🇳中国绿头外网集团Public_197
-      - 🇨🇳中国绿头外网集团Public_198
-      - 🇨🇳中国绿头外网集团Public_199
-      - 🇨🇳中国绿头外网集团Public_200
-      - 🇨🇳中国绿头外网集团Public_201
-      - 🇸🇬新加坡绿头外网集团Public_202
-      - 🇺🇸美国绿头外网集团Public_203
-      - n__07
-      - TOM-V2Ray-02_205
-      - TOM-V2Ray-03_206
-      - TOM-V2Ray-05_207
-      - TOM-V2Ray-06_208
-      - TOM-V2Ray-09_209
-      - TOM-V2Ray-08_210
-      - TOM-V2Ray-28_211
-      - TOM-V2Ray-12_212
-      - TOM-V2Ray-13_213
-      - TOM-V2Ray-14_214
-      - TOM-V2Ray-16_215
-      - TOM-V2Ray-17_216
-      - TOM-V2Ray-18_217
-      - TOM-V2Ray-19_218
-      - TOM-V2Ray-20_219
-      - TOM-V2Ray-21_220
-      - TOM-V2Ray-22_221
-      - TOM-V2Ray-23_222
-      - TOM-V2Ray-24_223
-      - TOM-V2Ray-25_224
-      - TOM-V2Ray-26_225
-      - TOM-V2Ray-29_226
-      - TOM-V2Ray-30_227
-      - TOM-V2Ray-31_228
-      - TOM-V2Ray-33_229
-      - TOM-V2Ray-40_230
-      - TOM-V2Ray-35_231
-      - TOM-V2Ray-36_232
-      - TOM-V2Ray-37_233
-      - TOM-V2Ray-38_234
-      - TOM-V2Ray-39_235
-      - TOM-V2Ray-42_236
-      - TOM-V2Ray-43_237
-      - TOM-V2Ray-44_238
-      - TOM-V2Ray-45_239
-      - TOM-V2Ray-46_240
-      - TOM-V2Ray-47_241
-      - DO|新加坡|一般|公益使用|免流_242
-      - GCP|台湾|高速|2X_243
-      - AZ|日本|高速免流|_244
-      - HGC|香港2|流媒体解锁迪士尼奈菲_245
-      - US|洛杉矶|电信CN2|直连高速_246
-      - 甲骨文|韩国春川|高速G口|免流_247
-      - AZ|香港|高速|免流|_248
-      - 甲骨文|韩国春川50M|高速|免流_249
-      - DO|新加坡|中转|公益使用|免流_250
-      - DO|美国|联通手厅免流|80端口直连_251
-      - DO|印度|全国电信停机免流_252
-      - HGC|香港|流媒体解锁|全国广东电信停机免流_253
-      - Hinet|台湾|流媒体解锁|全国广东电信免流_254
-      - 俄罗斯|原生IP|广东电信免流|steam|中转_255
-      - 甲骨文|春川2|50M|免流|_256
-      - CN|浙江杭州|高速免流|2X_257
-      - BUYVM|卢森堡|高速|免流|免费不限量|中转_258
-      - AZ|香港2|免流|自行修改_259
-      - isx.yt-01_260
-      - isx.yt-02_261
-      - isx.yt-03_262
-      - free-ss.sitewww.kernels.bid_263
-      - free-ss.sitewww.kernels.bid_264
-      - Hax_265
-      - heroku_266
-      - heroku-优选_267
-      - heroku2_268
+      - 更新于:11-28 20:00 -by BuLink.xyz- 以下节点不计流量_68
+      - DO|新加坡|一般|公益使用|免流_69
+      - GCP|台湾|高速|2X_70
+      - AZ|日本|高速免流|_71
+      - HGC|香港2|流媒体解锁迪士尼奈菲_72
+      - US|洛杉矶|电信CN2|直连高速_73
+      - 甲骨文|韩国春川|高速G口|免流_74
+      - AZ|香港|高速|免流|_75
+      - 甲骨文|韩国春川50M|高速|免流_76
+      - DO|新加坡|中转|公益使用|免流_77
+      - DO|美国|联通手厅免流|80端口直连_78
+      - DO|印度|全国电信停机免流_79
+      - HGC|香港|流媒体解锁|全国广东电信停机免流_80
+      - Hinet|台湾|流媒体解锁|全国广东电信免流_81
+      - 俄罗斯|原生IP|广东电信免流|steam|中转_82
+      - 甲骨文|春川2|50M|免流|_83
+      - CN|浙江杭州|高速免流|2X_84
+      - BUYVM|卢森堡|高速|免流|免费不限量|中转_85
+      - AZ|香港2|免流|自行修改_86
+      - isx.yt-01_87
+      - isx.yt-02_88
+      - isx.yt-03_89
+      - free-ss.sitewww.kernels.bid_90
+      - free-ss.sitewww.kernels.bid_91
+      - Hax_92
+      - heroku_93
+      - heroku-优选_94
+      - heroku2_95
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
