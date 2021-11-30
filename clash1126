@@ -9,139 +9,60 @@ proxies:
   - {name: '馃嚭馃嚫US_936+|112.17Mb', server: 38.68.134.23, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: '馃嚭馃嚫US_942+|126.46Mb', server: 167.88.62.34, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: '馃嚭馃嚫US_932+|186.05Mb', server: 142.202.48.52, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🇺🇸美国@hkaa0+1361_22.49Mb', server: 38.68.135.93, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '馃嚭馃嚫US_1620+|131.78Mb', server: 38.68.135.93, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: '馃嚭馃嚫US_917+|149.17Mb', server: 38.68.134.23, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: '馃嚭馃嚫US_1686+|118.41Mb', server: 142.202.48.7, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+966_22.48Mb', server: 167.88.62.34, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: '馃嚭馃嚫US_982+|117.92Mb', server: 167.88.62.34, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: '馃嚭馃嚫US_1600+|96.53Mb', server: 167.88.62.34, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🏁欢迎订阅@hkaa0+1814_20.32Mb', server: 134.195.196.217, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: '馃弫ZZ_1904+|56.80Mb', server: 134.195.196.217, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: '馃嚭馃嚫US_905+|91.75Mb', server: 142.202.48.58, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: '馃嚭馃嚫US_909+|94.31Mb', server: 38.68.135.19, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: '馃嚭馃嚫US_1690+|174.77Mb', server: 142.202.48.58, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: '馃嚭馃嚫US_1032+|70.31Mb', server: 38.75.136.21, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: '馃嚭馃嚫US_1165+|12.70Mb', server: 142.202.48.99, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🇺🇸美国@hkaa0+1357_14.87Mb', server: 38.68.134.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇺🇸美国@hkaa0+1406_26.17Mb', server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '馃嚭馃嚫US_1616+|88.94Mb', server: 38.68.134.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '馃嚭馃嚫US_1665+|62.36Mb', server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: '馃嚭馃嚫US_1691+|118.59Mb', server: 38.68.135.93, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🏁欢迎订阅@hkaa0+1839_21.09Mb', server: 134.195.196.52, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+1380_11.89Mb', server: 142.202.48.58, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '馃弫ZZ_1918+|108.59Mb', server: 134.195.196.52, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: '馃嚭馃嚫US_1639+|63.32Mb', server: 142.202.48.58, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: '馃嚭馃嚫US_941+|127.91Mb', server: 38.68.134.23, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: '馃嚭馃嚫US_1633+|157.94Mb', server: 38.91.101.221, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: '馃弫ZZ_1928+|82.53Mb', server: 134.195.196.52, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: '馃嚭馃嚫US_1260+|133.29Mb', server: 167.88.63.74, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+1473_11.69Mb', server: 142.202.48.7, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '馃嚭馃嚫US_1421+|11.79Mb', server: 142.202.48.7, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: '馃弫ZZ_1932+|111.02Mb', server: 134.195.196.217, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: '馃嚭馃嚫US_1259+|165.28Mb', server: 167.88.63.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇺🇸美国@hkaa0+1479_14.04Mb', server: 167.88.62.34, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🏁欢迎订阅@hkaa0+1824_20.60Mb', server: 134.195.196.217, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: '馃嚭馃嚫US_1415+|12.54Mb', server: 167.88.62.34, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '馃弫ZZ_1911+|78.28Mb', server: 134.195.196.217, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: '馃嚭馃嚫US_940+|96.75Mb', server: 167.88.62.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: '馃嚭馃嚫US_1305+|117.90Mb', server: 38.68.134.135, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇺🇸美国@hkaa0+1285_19.38Mb', server: 167.88.63.74, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: '馃嚭馃嚫US_1544+|224.03Mb', server: 167.88.63.74, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: '馃弫ZZ_1938+|19.68Mb', server: 134.195.196.52, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: '更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34', server: 使用前记得更新订阅, port: 0, type: vmess, uuid: 6a3bcc08-9c77-4c02-844b-4a694c4f2fea, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35', server: t2.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35', server: t2.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
   - {name: 'github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36', server: 104.251.233.106, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
-  - {name: 'github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67', server: t7.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: 'github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38', server: t1.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: 'github.com/freefq+-+北美地区++24_76', server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 'github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37', server: t7.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38', server: t1.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 北美地区  5_39', server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 'github.com/freefq - 美国LeaseWeb数据中心 6_40', server: 23.106.33.156, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: R3wS0jxB8ARCZgapOF8a4CpFc5lSOqCDZYSXD2a3zuY7eETD6IANy39elnxKy3}
-  - {name: 'github.com/freefq+-+俄罗斯++22_77', server: t8.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: 'github.com/freefq - 俄罗斯  8_42', server: t4.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: 'github.com/freefq+-+英国++28_66', server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 'github.com/freefq+-+挪威++27_74', server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 'github.com/freefq+-+北美地区++10_75', server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 'github.com/freefq - 俄罗斯  7_41', server: t8.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 俄罗斯  8_42', server: t4.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 英国  9_43', server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 'github.com/freefq - 挪威  10_44', server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 'github.com/freefq - 北美地区  11_45', server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 'github.com/freefq - 美国CloudFlare节点 12_46', server: 198.41.212.234, port: 2082, type: vmess, uuid: 68188cc4-0e87-4da8-cd67-7c6dbcaccf6f, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /media/, ws-headers: {Host: download.jianguoyun.com}}
-  - {name: 'github.com/freefq+-+北美地区++12_70', server: 134.195.196.3, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 'github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79', server: t3.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 北美地区  13_47', server: 134.195.196.3, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 'github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48', server: t3.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
   - {name: 'github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49', server: 103.138.75.235, port: 443, type: vmess, uuid: 8ccc3052-4941-47e4-b85f-a67ea71e3fe6, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /clientarea, ws-headers: {Host: 103.138.75.235}}
-  - {name: 'github.com/freefq+-+美国++30_72', server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 'github.com/freefq+-+北美地区++20_71', server: 134.195.196.3, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 'github.com/freefq - 美国  18_52', server: t9.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: 'github.com/freefq+-+北美地区++7_69', server: 134.195.196.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 'github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54', server: t5.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 美国  16_50', server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 'github.com/freefq - 北美地区  17_51', server: 134.195.196.3, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 'github.com/freefq - 美国  18_52', server: t9.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 北美地区  19_53', server: 134.195.196.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 'github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54', server: t5.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
   - {name: 'github.com/freefq - 日本M247网络 21_55', server: 185.172.113.156, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 'github.com/freefq+-+北美地区++6_68', server: 134.195.196.214, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 'github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78', server: t6.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: 'github.com/freefq - 美国  24_58', server: t10.ssrsub.com, port: 21033undefined, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
-  - {name: '🇩🇪德国@hkaa0+77_+6.02Mb', server: 146.0.36.23, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇩🇪德国@hkaa0+76_+6.64Mb', server: 146.0.36.23, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇨🇵法国@hkaa0+335_+5.60Mb', server: 145.239.1.137, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸美国@hkaa0+962_12.34Mb', server: 142.202.48.105, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+972_19.00Mb', server: 38.114.114.68, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+964_12.32Mb', server: 142.202.48.105, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇺🇸美国@hkaa0+970_22.09Mb', server: 167.88.62.68, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+996_24.38Mb', server: 38.114.114.69, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+990_14.23Mb', server: 38.68.135.93, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🇺🇸美国@hkaa0+995_20.77Mb', server: 142.202.48.105, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+1008_26.14Mb', server: 38.75.137.71, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+1011_11.92Mb', server: 38.114.114.68, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+1012_22.54Mb', server: 38.68.134.85, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇺🇸美国@hkaa0+1117_11.50Mb', server: 38.114.114.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🇺🇸美国@hkaa0+1116_25.86Mb', server: 38.75.136.21, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🇺🇸美国@hkaa0+1126_19.83Mb', server: 172.99.190.186, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: '🇺🇸美国@hkaa0+1133_20.01Mb', server: 172.99.190.90, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇺🇸美国@hkaa0+1223_21.08Mb', server: 172.99.190.90, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇺🇸美国@hkaa0+1229_22.42Mb', server: 38.68.134.85, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇺🇸美国@hkaa0+1245_13.65Mb', server: 142.202.48.77, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇺🇸美国@hkaa0+1443_26.55Mb', server: 38.75.137.71, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸美国@hkaa0+1449_23.39Mb', server: 38.68.134.37, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸美国@hkaa0+1466_14.45Mb', server: 167.88.63.71, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸美国@hkaa0+1477_11.51Mb', server: 142.202.48.105, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸美国@hkaa0+1493_+7.71Mb', server: 38.114.114.49, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸美国@hkaa0+1511_11.69Mb', server: 142.202.48.105, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇺🇸美国@hkaa0+1572_23.40Mb', server: 38.68.134.37, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🏁欢迎订阅@hkaa0+1693_19.57Mb', server: 134.195.196.214, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🏁欢迎订阅@hkaa0+1758_20.09Mb', server: 134.195.196.3, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🏁欢迎订阅@hkaa0+1757_10.37Mb', server: 134.195.196.3, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🏁欢迎订阅@hkaa0+1798_20.96Mb', server: 134.195.196.12, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🏁欢迎订阅@hkaa0+1799_+7.31Mb', server: 134.195.196.3, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🏁欢迎订阅@hkaa0+1801_12.65Mb', server: 134.195.196.12, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🏁欢迎订阅@hkaa0+1813_20.44Mb', server: 134.195.196.52, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🏁欢迎订阅@hkaa0+1815_20.87Mb', server: 134.195.196.217, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🏁欢迎订阅@hkaa0+1816_21.12Mb', server: 134.195.196.217, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🏁欢迎订阅@hkaa0+1820_20.27Mb', server: 134.195.196.217, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🏁欢迎订阅@hkaa0+1826_12.64Mb', server: 134.195.196.52, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🏁欢迎订阅@hkaa0+1833_20.85Mb', server: 134.195.196.217, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🏁欢迎订阅@hkaa0+1831_21.43Mb', server: 134.195.196.52, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🏁欢迎订阅@hkaa0+1841_20.78Mb', server: 134.195.196.52, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🏁欢迎订阅@hkaa0+1848_20.34Mb', server: 134.195.196.52, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇨🇦加拿大@hkaa0+145_20.64Mb', server: 198.57.27.184, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇨🇦加拿大@hkaa0+147_12.39Mb', server: 198.57.27.184, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇨🇦加拿大@hkaa0+154_20.80Mb', server: 198.57.27.184, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇨🇦加拿大@hkaa0+161_19.78Mb', server: 198.57.27.184, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇨🇦加拿大@hkaa0+185_20.96Mb', server: 198.57.27.184, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇨🇦加拿大@hkaa0+188_19.81Mb', server: 198.57.27.184, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: '🇨🇦加拿大@hkaa0+194_19.81Mb', server: 198.57.27.184, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: '🇨🇦加拿大@hkaa0+195_14.83Mb', server: 198.57.27.184, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇨🇦加拿大@hkaa0+207_20.69Mb', server: 198.57.27.184, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 'github.com/freefq+-+北美地区++14_73', server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80', server: cm-jm.okvpn.xyz, port: 20015, type: vmess, uuid: 9ff08877-9269-4916-bc2b-2736a6f44326, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: '香港◆◆HKT 09 PPCW Netflix 1倍率_81', server: guangzhou-lw-03.pucdn.me, port: 11116, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-09.pucdn.me}}
-  - {name: '沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82', server: guangzhou-lw-03.pucdn.me, port: 21106, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-06.pucdn.me}}
-  - {name: '🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83', server: cm-jm.okvpn.xyz, port: 20049, type: vmess, uuid: 9ff08877-9269-4916-bc2b-2736a6f44326, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: '新加坡◆◆ SG 01 高速 1倍率_84', server: global-transit-hk-v2.pucdn.me, port: 31122, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-a-sg-01.pucdn.me}}
-  - {name: '韩国◆AWS 07 Netflix 1倍率_85', server: global-transit-02-sg.pucdn.me, port: 63007, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-07.pucdn.me}}
-  - {name: '🇨🇳 中转|台湾中华电信08|微信：ddly000_86', server: cm-jm.okvpn.xyz, port: 20047, type: vmess, uuid: 9ff08877-9269-4916-bc2b-2736a6f44326, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: '新加坡◆◆ SG 01 高速 1倍率_87', server: global-transit-hk-v2.pucdn.me, port: 31122, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-a-sg-01.pucdn.me}}
-  - {name: '新加坡◆◆SG 04 DO 1倍率_88', server: global-transit-hk-v2.pucdn.me, port: 31125, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-do-sg-02.pucdn.me}}
-  - {name: '韩国◆AWS 02 Netflix 1倍率_89', server: global-transit-02-sg.pucdn.me, port: 63002, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-02.pucdn.me}}
-  - {name: '新加坡◆AWS 02 Netflix 1倍率_90', server: global-transit-02-sg.pucdn.me, port: 61001, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-sg-02.pucdn.me}}
-  - {name: '韩国◆AWS 06 Netflix 1倍率_91', server: global-transit-02-sg.pucdn.me, port: 63006, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-06.pucdn.me}}
-  - {name: '韩国◆AWS 08 Netflix 1倍率_92', server: global-transit-02-sg.pucdn.me, port: 63008, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-08.pucdn.me}}
-  - {name: '沪韩◆◆KR 02 AWS 高速 1倍率_93', server: global-transit-hk-v2.pucdn.me, port: 31102, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-02.pucdn.me}}
-  - {name: '日本◆AWS 08 Netflix 1倍率_94', server: global-transit-hk-v2.pucdn.me, port: 40008, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-jp-08.pucdn.me}}
-  - {name: '沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95', server: guangzhou-lw-03.pucdn.me, port: 21107, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-tw-07.pucdn.me}}
-  - {name: '沪韩◆◆KR 02 AWS 高速 1倍率_96', server: global-transit-hk-v2.pucdn.me, port: 31102, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-kr-02.pucdn.me}}
-  - {name: '日本◆AWS 09 Netflix 1倍率_97', server: global-transit-hk-v2.pucdn.me, port: 40009, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-jp-09.pucdn.me}}
-  - {name: '日本◆◆樱花 09 Sakura 1倍率 100m限速_98', server: global-transit-hk-v2.pucdn.me, port: 10013, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-09.pucdn.me}}
-  - {name: '日本◆AWS 12 Netflix 1倍率_99', server: global-transit-hk-v2.pucdn.me, port: 40012, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-jp-12.pucdn.me}}
-  - {name: '韩国◆AWS 08 Netflix 1倍率_100', server: global-transit-02-sg.pucdn.me, port: 63008, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L1-aws-kr-08.pucdn.me}}
-  - {name: '日本◆AWS 12 Netflix 1倍率_101', server: global-transit-hk-v2.pucdn.me, port: 40012, type: vmess, uuid: 8f19fe80-2493-3c3a-ace9-a6d7c665b3cf, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-jp-12.pucdn.me}}
-  - {name: '日本◆AWS 07 Netflix 1倍率_102', server: global-transit-hk-v2.pucdn.me, port: 40007, type: vmess, uuid: 19a605a2-6982-387e-bcd4-8b5bffbe039a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-jp-07.pucdn.me}}
-  - {name: '沪日◆◆JP 01 AWS 高速 1倍率_103', server: global-transit-hk-v2.pucdn.me, port: 32301, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-aws-jp-01.pucdn.me}}
-  - {name: '日本◆◆樱花 07 Sakura 1倍率 100m限速_104', server: global-transit-hk-v2.pucdn.me, port: 10011, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: L2-sakura-jp-07.pucdn.me}}
-  - {name: '日本◆AWS 11 Netflix 1倍率_105', server: global-transit-hk-v2.pucdn.me, port: 40011, type: vmess, uuid: 6fb2ccd1-26dd-304c-ab8c-8259309cded1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: l1-aws-jp-11.pucdn.me}}
-  - {name: '🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106', server: cm-jm.okvpn.xyz, port: 20000, type: vmess, uuid: 9ff08877-9269-4916-bc2b-2736a6f44326, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
+  - {name: 'github.com/freefq - 北美地区  22_56', server: 134.195.196.214, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 'github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57', server: t6.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
+  - {name: 'github.com/freefq - 美国  24_58', server: t10.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -152,139 +73,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -294,139 +136,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -437,139 +200,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -579,139 +263,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -721,139 +326,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: 📲 电报信息
     type: select
     proxies:
@@ -863,139 +389,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1006,139 +453,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1158,139 +526,60 @@ proxy-groups:
       - 馃嚭馃嚫US_936+|112.17Mb
       - 馃嚭馃嚫US_942+|126.46Mb
       - 馃嚭馃嚫US_932+|186.05Mb
-      - 🇺🇸美国@hkaa0+1361_22.49Mb
+      - 馃嚭馃嚫US_1620+|131.78Mb
       - 馃嚭馃嚫US_917+|149.17Mb
       - 馃嚭馃嚫US_1686+|118.41Mb
-      - 🇺🇸美国@hkaa0+966_22.48Mb
+      - 馃嚭馃嚫US_982+|117.92Mb
       - 馃嚭馃嚫US_1600+|96.53Mb
-      - 🏁欢迎订阅@hkaa0+1814_20.32Mb
+      - 馃弫ZZ_1904+|56.80Mb
       - 馃嚭馃嚫US_905+|91.75Mb
       - 馃嚭馃嚫US_909+|94.31Mb
       - 馃嚭馃嚫US_1690+|174.77Mb
       - 馃嚭馃嚫US_1032+|70.31Mb
       - 馃嚭馃嚫US_1165+|12.70Mb
-      - 🇺🇸美国@hkaa0+1357_14.87Mb
-      - 🇺🇸美国@hkaa0+1406_26.17Mb
+      - 馃嚭馃嚫US_1616+|88.94Mb
+      - 馃嚭馃嚫US_1665+|62.36Mb
       - 馃嚭馃嚫US_1691+|118.59Mb
-      - 🏁欢迎订阅@hkaa0+1839_21.09Mb
-      - 🇺🇸美国@hkaa0+1380_11.89Mb
+      - 馃弫ZZ_1918+|108.59Mb
+      - 馃嚭馃嚫US_1639+|63.32Mb
       - 馃嚭馃嚫US_941+|127.91Mb
       - 馃嚭馃嚫US_1633+|157.94Mb
       - 馃弫ZZ_1928+|82.53Mb
       - 馃嚭馃嚫US_1260+|133.29Mb
-      - 🇺🇸美国@hkaa0+1473_11.69Mb
+      - 馃嚭馃嚫US_1421+|11.79Mb
       - 馃弫ZZ_1932+|111.02Mb
       - 馃嚭馃嚫US_1259+|165.28Mb
-      - 🇺🇸美国@hkaa0+1479_14.04Mb
-      - 🏁欢迎订阅@hkaa0+1824_20.60Mb
+      - 馃嚭馃嚫US_1415+|12.54Mb
+      - 馃弫ZZ_1911+|78.28Mb
       - 馃嚭馃嚫US_940+|96.75Mb
       - 馃嚭馃嚫US_1305+|117.90Mb
-      - 🇺🇸美国@hkaa0+1285_19.38Mb
+      - 馃嚭馃嚫US_1544+|224.03Mb
       - 馃弫ZZ_1938+|19.68Mb
       - 更新于:11-29 20:00 -by BuLink.xyz- 以下节点不计流量_34
       - github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 1_35
       - github.com/freefq - 美国KINPONET洛杉矶GIA网络数据中心 2_36
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+16_67
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 3_37
       - github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4_38
-      - github.com/freefq+-+北美地区++24_76
+      - github.com/freefq - 北美地区  5_39
       - github.com/freefq - 美国LeaseWeb数据中心 6_40
-      - github.com/freefq+-+俄罗斯++22_77
+      - github.com/freefq - 俄罗斯  7_41
       - github.com/freefq - 俄罗斯  8_42
-      - github.com/freefq+-+英国++28_66
-      - github.com/freefq+-+挪威++27_74
-      - github.com/freefq+-+北美地区++10_75
+      - github.com/freefq - 英国  9_43
+      - github.com/freefq - 挪威  10_44
+      - github.com/freefq - 北美地区  11_45
       - github.com/freefq - 美国CloudFlare节点 12_46
-      - github.com/freefq+-+北美地区++12_70
-      - github.com/freefq+-+俄罗斯新西伯利亚JustHost+33_79
+      - github.com/freefq - 北美地区  13_47
+      - github.com/freefq - 俄罗斯新西伯利亚JustHost 14_48
       - github.com/freefq - 美国加利福尼亚州费利蒙Hurricane Electric公司 15_49
-      - github.com/freefq+-+美国++30_72
-      - github.com/freefq+-+北美地区++20_71
+      - github.com/freefq - 美国  16_50
+      - github.com/freefq - 北美地区  17_51
       - github.com/freefq - 美国  18_52
-      - github.com/freefq+-+北美地区++7_69
+      - github.com/freefq - 北美地区  19_53
       - github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 20_54
       - github.com/freefq - 日本M247网络 21_55
-      - github.com/freefq+-+北美地区++6_68
-      - github.com/freefq+-+加拿大安大略省基奇纳DataCity数据中心+9_78
+      - github.com/freefq - 北美地区  22_56
+      - github.com/freefq - 加拿大安大略省基奇纳DataCity数据中心 23_57
       - github.com/freefq - 美国  24_58
-      - 🇩🇪德国@hkaa0+77_+6.02Mb
-      - 🇩🇪德国@hkaa0+76_+6.64Mb
-      - 🇨🇵法国@hkaa0+335_+5.60Mb
-      - 🇺🇸美国@hkaa0+962_12.34Mb
-      - 🇺🇸美国@hkaa0+972_19.00Mb
-      - 🇺🇸美国@hkaa0+964_12.32Mb
-      - 🇺🇸美国@hkaa0+970_22.09Mb
-      - 🇺🇸美国@hkaa0+996_24.38Mb
-      - 🇺🇸美国@hkaa0+990_14.23Mb
-      - 🇺🇸美国@hkaa0+995_20.77Mb
-      - 🇺🇸美国@hkaa0+1008_26.14Mb
-      - 🇺🇸美国@hkaa0+1011_11.92Mb
-      - 🇺🇸美国@hkaa0+1012_22.54Mb
-      - 🇺🇸美国@hkaa0+1117_11.50Mb
-      - 🇺🇸美国@hkaa0+1116_25.86Mb
-      - 🇺🇸美国@hkaa0+1126_19.83Mb
-      - 🇺🇸美国@hkaa0+1133_20.01Mb
-      - 🇺🇸美国@hkaa0+1223_21.08Mb
-      - 🇺🇸美国@hkaa0+1229_22.42Mb
-      - 🇺🇸美国@hkaa0+1245_13.65Mb
-      - 🇺🇸美国@hkaa0+1443_26.55Mb
-      - 🇺🇸美国@hkaa0+1449_23.39Mb
-      - 🇺🇸美国@hkaa0+1466_14.45Mb
-      - 🇺🇸美国@hkaa0+1477_11.51Mb
-      - 🇺🇸美国@hkaa0+1493_+7.71Mb
-      - 🇺🇸美国@hkaa0+1511_11.69Mb
-      - 🇺🇸美国@hkaa0+1572_23.40Mb
-      - 🏁欢迎订阅@hkaa0+1693_19.57Mb
-      - 🏁欢迎订阅@hkaa0+1758_20.09Mb
-      - 🏁欢迎订阅@hkaa0+1757_10.37Mb
-      - 🏁欢迎订阅@hkaa0+1798_20.96Mb
-      - 🏁欢迎订阅@hkaa0+1799_+7.31Mb
-      - 🏁欢迎订阅@hkaa0+1801_12.65Mb
-      - 🏁欢迎订阅@hkaa0+1813_20.44Mb
-      - 🏁欢迎订阅@hkaa0+1815_20.87Mb
-      - 🏁欢迎订阅@hkaa0+1816_21.12Mb
-      - 🏁欢迎订阅@hkaa0+1820_20.27Mb
-      - 🏁欢迎订阅@hkaa0+1826_12.64Mb
-      - 🏁欢迎订阅@hkaa0+1833_20.85Mb
-      - 🏁欢迎订阅@hkaa0+1831_21.43Mb
-      - 🏁欢迎订阅@hkaa0+1841_20.78Mb
-      - 🏁欢迎订阅@hkaa0+1848_20.34Mb
-      - 🇨🇦加拿大@hkaa0+145_20.64Mb
-      - 🇨🇦加拿大@hkaa0+147_12.39Mb
-      - 🇨🇦加拿大@hkaa0+154_20.80Mb
-      - 🇨🇦加拿大@hkaa0+161_19.78Mb
-      - 🇨🇦加拿大@hkaa0+185_20.96Mb
-      - 🇨🇦加拿大@hkaa0+188_19.81Mb
-      - 🇨🇦加拿大@hkaa0+194_19.81Mb
-      - 🇨🇦加拿大@hkaa0+195_14.83Mb
-      - 🇨🇦加拿大@hkaa0+207_20.69Mb
-      - github.com/freefq+-+北美地区++14_73
-      - 🇯🇵 中转|日本GMO09|华南隧道流媒体解锁_80
-      - 香港◆◆HKT 09 PPCW Netflix 1倍率_81
-      - 沪台◆◆HINET 06 Netflix  動畫瘋 1倍率_82
-      - 🇸🇬 中转|新加坡Singtel04|华南隧道流媒体解锁_83
-      - 新加坡◆◆ SG 01 高速 1倍率_84
-      - 韩国◆AWS 07 Netflix 1倍率_85
-      - 🇨🇳 中转|台湾中华电信08|微信：ddly000_86
-      - 新加坡◆◆ SG 01 高速 1倍率_87
-      - 新加坡◆◆SG 04 DO 1倍率_88
-      - 韩国◆AWS 02 Netflix 1倍率_89
-      - 新加坡◆AWS 02 Netflix 1倍率_90
-      - 韩国◆AWS 06 Netflix 1倍率_91
-      - 韩国◆AWS 08 Netflix 1倍率_92
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_93
-      - 日本◆AWS 08 Netflix 1倍率_94
-      - 沪台◆◆HINET 07 Netflix  動畫瘋 1倍率_95
-      - 沪韩◆◆KR 02 AWS 高速 1倍率_96
-      - 日本◆AWS 09 Netflix 1倍率_97
-      - 日本◆◆樱花 09 Sakura 1倍率 100m限速_98
-      - 日本◆AWS 12 Netflix 1倍率_99
-      - 韩国◆AWS 08 Netflix 1倍率_100
-      - 日本◆AWS 12 Netflix 1倍率_101
-      - 日本◆AWS 07 Netflix 1倍率_102
-      - 沪日◆◆JP 01 AWS 高速 1倍率_103
-      - 日本◆◆樱花 07 Sakura 1倍率 100m限速_104
-      - 日本◆AWS 11 Netflix 1倍率_105
-      - 🇨🇳 中转|台湾HiNet04|华南隧道流媒体解锁_106
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
